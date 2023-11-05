@@ -1,5 +1,5 @@
 # PsyrenAR Demo UI
-A Mobile-Based Mental Health Assessment and Counselling Application with Marker-Based Augmented Reality. 
+A Mobile-Based Mental Health Assessment and Counselling Application with Marker-Based Augmented Reality. \n
 Role: Full Stack
 Some of the Assets(SFX, UI) used in the application are included.
 
