@@ -3,7 +3,7 @@ A Mobile-Based Mental Health Assessment and Counselling Application with Marker-
 
 Role: Full Stack
 
-Some of the Assets(SFX, UI) used in the application are included.
+Some of the Assets (SFX, UI) used in the application are included.
 
 Home Screen
 ![63f9fcf830879](https://github.com/NadeerMukaram/PsyrenAR/assets/72739154/7dbe493c-9f51-4a9b-b22e-94a9df482722)
