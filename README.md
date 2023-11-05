@@ -1,6 +1,6 @@
 # PsyrenAR Demo UI
 #### A Mobile-Based Mental Health Assessment and Counselling Application with Marker-Based Augmented Reality. 
-#### This my Capstone Project 
+This is actually my Capstone Project; which I completed with the support and guidance of my advisor and a psychologist.
 * Role: Full Stack 
 * Some of the Assets (SFX, UI) used in the application are included.
 
